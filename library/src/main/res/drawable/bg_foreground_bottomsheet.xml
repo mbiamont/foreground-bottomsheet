@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="#FFFFFF">
+
+    <padding android:top="@dimen/defaultContentViewPaddingTop"/>
+
+    <corners
+        android:topLeftRadius="@dimen/cornerRadiusContentView"
+        android:topRightRadius="@dimen/cornerRadiusContentView" />
+
+</shape>
