@@ -2,7 +2,7 @@
 
 Android library to display a BottomSheet in foreground and pass the activity into background.
 
-![fullart](art/fullart.png)
+![display-art](art/display-art.png)
 
 ## How to install
 
