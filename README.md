@@ -6,7 +6,15 @@ Android library to display a BottomSheet in foreground and pass the activity int
 
 ## How to install
 
-:warning: In Progress :warning:
+#### Gradle kts
+```kotlin
+implementation("com.mbiamont:foreground-bottomsheet:0.1.0")
+```
+
+#### Gradle (old way)
+```groovy
+implementation 'com.mbiamont:foreground-bottomsheet:0.1.0'
+```
 
 ## How to use
 
